@@ -1,0 +1,124 @@
+body
+{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#title
+{
+  background-color:#C5D8A4;
+  color: white;
+  }
+.carousel-item
+{
+padding: 7% 15%;
+}
+
+.container-fluid
+{
+  padding:3% 15% 10%;
+}
+#features
+{
+  font-family: 'ZCOOL KuaiLe', cursive;
+  background-color: white;
+  position: relative;
+  padding:7%5%;
+  z-index: 1;
+}
+.nier{
+
+  width:17%;
+  border-radius: 100%;
+
+}
+.dogI
+{
+    width:20%;
+  border-radius: 100%;
+
+}
+h1
+{
+  font-family: 'Montserrat', sans-serif;
+ font-size: 4rem;
+  line-height: 1.5;
+}
+h2
+{
+  font-size: 3rem;
+  margin-left:10%;
+  margin-right: 10%;
+}
+h3
+{
+font-family: 'ZCOOL KuaiLe', cursive;
+  font-size: 3rem;
+  line-height: 2;
+}
+/*navbar*/
+.navbar
+{
+  padding:0 0 5.5rem;
+}
+.navbar-brand{
+    font-family: 'Montserrat', sans-serif;
+   font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item
+{
+  padding:0 18px;
+}
+.nav-link
+{
+  font-size: 1.2rem;
+
+}
+/*button*/
+.ios-button
+{
+  margin: 5% 3% 5% 0;
+}
+.andr-button
+{
+  margin: 5% 3% 5% 0;
+}
+.priceCard
+{
+  padding :3% 10%;
+}
+#pricing{
+  text-align: center;
+  padding :100px;
+}
+p
+{
+  color:grey;
+}
+#press
+{
+  text-align: center;
+}
+.projectBox
+{
+  text-align: center;
+  padding :4.5%;
+}
+/*titleimage*/
+.titleimage
+{
+
+  transform: rotate(20deg);
+  position: absolute;
+  right:20%;
+
+}
+/*testimonal*/
+#testimonials
+{
+  color: white;
+
+  text-align: center;
+  background-color: #C5D8A4
+
+}
